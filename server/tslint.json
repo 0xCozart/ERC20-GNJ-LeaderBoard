@@ -4,7 +4,8 @@
     "member-ordering": false,
     "object-literal-sort-keys": false,
     "ordered-imports": false,
-    "quotemark": [true, "double"]
+    "quotemark": [true, "double"],
+    "no-console": false
   },
   "linterOptions": {
     "exclude": ["./node_modules/**"]

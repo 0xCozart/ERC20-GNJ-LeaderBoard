@@ -13,6 +13,7 @@
 #### Sprint:
 
 1. Create backend web3 call for token list of addresses that have token.
+   - Create SQLite db
 2. Format into string list.
 3. Establish table to display holder addresses.
 4. Explorer integration.
